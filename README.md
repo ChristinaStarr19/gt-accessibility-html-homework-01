@@ -22,7 +22,7 @@
 
 This simple HTML files uses best practices for accessibility in programing.
 
-![Deployed site with Accessibility upgrades](assets\images\accessibility-application-screenshot.png)
+![Deployed site with Accessibility upgrades](assets/images/accessibility-application-screenshot.png)
 
 Link to deployed application:
 https://christinastarr19.github.io/gt-accessibility-html-homework-01/
