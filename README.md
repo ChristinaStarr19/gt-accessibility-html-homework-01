@@ -5,25 +5,27 @@
 ## Table of Contents 
 
 
-
 * [Installation](#installation)
 * [Usage](#usage)
 * [Credits](#credits)
 * [MIT_License](#mit_license)
-* [URL](#url) 
+
 
 
 ## Installation
 
-Clone the repo and run the index.html file in browser.
+1. Clone the repo and 
+2. Run the index.html file in default browser.
 
 
 ## Usage 
 
-THis simple HTML files uses best practices for accessibility in programing.
+This simple HTML files uses best practices for accessibility in programing.
 
-![Accessibility Appliction](accessibility-application-screenshot.png)
+![Deployed site with Accessibility upgrades](assets\images\accessibility-application-screenshot.png)
 
+Link to deployed application:
+https://christinastarr19.github.io/gt-accessibility-html-homework-01/
 
 ## Credits
 
@@ -53,9 +55,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-## URL
-Link to deployed application:
-https://christinastarr19.github.io/gt-accessibility-html-homework-01/
 
 ---
 
